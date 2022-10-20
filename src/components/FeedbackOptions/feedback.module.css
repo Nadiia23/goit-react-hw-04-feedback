@@ -1,0 +1,17 @@
+.btn {
+    font-size: 16px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(239, 143, 211);
+    border-radius: 4px;
+    border: 2px solid rgb(128, 9, 92);
+}
+
+.btn:not(:last-child) {
+    margin-right: 15px;
+}
+
+.btn:hover {
+    background-color: rgb(116, 105, 243);
+    box-shadow: rgba(49, 49, 49, 0.35) 0px 5px 15px;
+}
