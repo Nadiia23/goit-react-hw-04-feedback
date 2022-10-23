@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import s from './feedback.module.css'
 
 const Feedback = ({ items, handleUpdate }) => {
@@ -16,6 +17,12 @@ const Feedback = ({ items, handleUpdate }) => {
              ))}
              
         </div>)
+}
+
+
+Feedback.propTypes = {
+    items: PropTypes.array.isRequired,
+  handleUpdate: PropTypes.func.isRequired,
 }
 
 export default Feedback
