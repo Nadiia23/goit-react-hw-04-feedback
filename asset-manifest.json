@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nadiia23/goit-react-hw-04-feedback.git/static/css/main.6f23635f.css",
+    "main.js": "/Nadiia23/goit-react-hw-04-feedback.git/static/js/main.2e34aff1.js",
+    "index.html": "/Nadiia23/goit-react-hw-04-feedback.git/index.html",
+    "main.6f23635f.css.map": "/Nadiia23/goit-react-hw-04-feedback.git/static/css/main.6f23635f.css.map",
+    "main.2e34aff1.js.map": "/Nadiia23/goit-react-hw-04-feedback.git/static/js/main.2e34aff1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f23635f.css",
+    "static/js/main.2e34aff1.js"
+  ]
+}
